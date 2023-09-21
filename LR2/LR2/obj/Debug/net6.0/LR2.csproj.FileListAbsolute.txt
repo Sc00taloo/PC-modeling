@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\bin\Debug\net6.0\LR2.exe
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\bin\Debug\net6.0\LR2.deps.json
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\bin\Debug\net6.0\LR2.runtimeconfig.json
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\bin\Debug\net6.0\LR2.dll
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\bin\Debug\net6.0\LR2.pdb
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.dll
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\refint\LR2.dll
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.pdb
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\LR2.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\PC-modeling\LR2\LR2\obj\Debug\net6.0\ref\LR2.dll
