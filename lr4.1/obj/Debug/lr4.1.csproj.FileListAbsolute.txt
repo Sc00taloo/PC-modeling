@@ -1,0 +1,10 @@
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\bin\Debug\lr4.1.exe.config
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\bin\Debug\lr4.1.exe
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\bin\Debug\lr4.1.pdb
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4.1.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4._1.Form1.resources
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4._1.Properties.Resources.resources
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4.1.csproj.GenerateResource.cache
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4.1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4.1.exe
+C:\Users\Ivan\Documents\GitHub\PC-modeling\lr4.1\obj\Debug\lr4.1.pdb
